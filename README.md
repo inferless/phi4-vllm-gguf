@@ -11,8 +11,6 @@ To access the custom runtime window in Inferless, simply navigate to the sidebar
 
 Next, provide a suitable name for your custom runtime and proceed by uploading the **inferless-runtime-config.yaml** file given above. Finally, ensure you save your changes by clicking on the save button.
 
-### Add Your NFS Volume
-Go into the `inferless.yaml` and replace `<YOUR_NFS_VOLUME_MOUNT_PATH>` with your volume mount path.
 
 ### Import the Model in Inferless
 Log in to your inferless account, select the workspace you want the model to be imported into and click the Add Model button.
